@@ -1,17 +1,14 @@
-## Hi there 👋
+# Hi 👋
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=liuktc&show_icons=true&theme=radical)
-<!--
-**liuktc/liuktc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luca Domeniconi and I am a ~very serious~ computer engineering and an artificial intelligence researcher.
 
-Here are some ideas to get you started:
+[My Website](https://liuktc.github.io/) • [LinkedIn](https://www.linkedin.com/in/lucadomeniconi01/) • [Email](mailto:luca24ever@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+![Me working](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW42ejdlbWxsazU3OGR1cDRwZnpud3BoY2hvZXBxajliZXNnZDI3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif)
+
+*Video of me working very fast*
+
