@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Your Stats](https://github-readme-stats.vercel.app/api?username=liuktc&show_icons=true&theme=radical)
 <!--
 **liuktc/liuktc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
