@@ -2,7 +2,7 @@
 
 My name is Luca Domeniconi and I am a ~very serious~ computer engineering and an artificial intelligence researcher.
 
-[My Website](https://liuktc.github.io/) • [LinkedIn](https://www.linkedin.com/in/lucadomeniconi01/) • [Email](mailto:luca24ever@gmail.com)
+[My Website](https://liuktc.github.io/) • [LinkedIn](https://www.linkedin.com/in/lucadomeniconi01/) • [Email](mailto:luca24ever@gmail.com) • [Curriculum Vitae](https://raw.githubusercontent.com/liuktc/cv/main/cv.pdf)
 
 
 
